@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-label {
+  @apply text-sm font-medium text-primary w-full select-none mb-[6px];
+}
+
+.input-field {
+  @apply w-full h-[50px] shadow-none border transition-all duration-[0.3s] ease-[ease-in-out] text-lg px-4 py-1 rounded border-solid focus:shadow focus:border-primary outline-none;
+  background: none;
+}
