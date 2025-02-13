@@ -1,9 +1,8 @@
-# Zid Frontend Challenge
+# Payment Card
 
 This repository is the home for a Frontend Credit Card Challenge project. The project's goal is to design a Profile and Credit Card page on a merchant dashboard using Vue.js 3, TypeScript, and Tailwind CSS, with a focus on form validation and updating profile.
 
 ## Live Demo
-
 
 [View the live demo ↗.](https://payment-card-du5v.onrender.com/)
 
@@ -38,8 +37,8 @@ The project consists of two main parts:
 To get started with the project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/alaa-abdallah1/zid-task.git
-cd zid-task
+git clone https://github.com/alaa-abdallah1/payment-card.git
+cd payment-card
 ```
 
 #### Install dependencies:
