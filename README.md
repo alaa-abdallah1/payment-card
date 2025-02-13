@@ -22,6 +22,12 @@ The project consists of two main parts:
    - Displays the credit card brand dynamically.
    - Integrates form validation and credit card validation logic.
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/672201bb-78b0-4671-9f65-7f283fe96f95)
+
+![image](https://github.com/user-attachments/assets/85cfea7a-9e48-4a2c-92e0-02bbf01d0b97)
+
 ## Technology Stack
 
 - **HTML**
